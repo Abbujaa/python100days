@@ -1,0 +1,5 @@
+# Write your code below this line 👇
+print("hello world!")
+print("angela" +" "+"yu")
+input("what is your name?\n")
+print("hello "+ input("what is your name?\n"))
